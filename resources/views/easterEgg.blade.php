@@ -64,14 +64,10 @@
         </style>
     </head>
     <body>
-        <div class="flex-center position-ref full-height">
             <div class="content">
                 <div class="title m-b-md">
-                    <h1>{{$homeTitle}}</h1>
-                </div>
-
-                <div class="links">
-                    <a href="easterEgg">Non aprire questo link!</a>
+                    <h2>Buone vacanze di pasqua!</h2>
+                    <h6>ps. durante le vacanze finirò gli esercizi che mi mancano da consegnare</h6>
                 </div>
             </div>
         </div>
